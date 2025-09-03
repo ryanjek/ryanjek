@@ -26,8 +26,6 @@
 ---
 
 ##  GitHub Stats
-
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanjek&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjek&layout=compact&theme=tokyonight)
 
 ---
