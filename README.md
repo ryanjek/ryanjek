@@ -1,8 +1,7 @@
-# Hi there 👋, I'm Ryan Ng Jek Hian
+# Hey! I'm Ryan Ng Jek Hian!
 
 🎓 Undergraduate Student in Data Science & Analytics  
-💡 Interested in Machine Learning and AI
-📊 Passionate about building **AI/ML solutions**
+💡 Interested in building Machine Learning and AI solutions
 
 ---
 
