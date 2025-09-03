@@ -1,11 +1,11 @@
-# Hey! I'm Ryan Ng Jek Hian!
+# Hey, I'm Ryan Ng Jek Hian!
 
 🎓 Undergraduate Student in Data Science & Analytics  
 💡 Interested in building Machine Learning and AI solutions
 
 ---
 
-## 🚀 Skills & Tools
+## Skills & Tech stacks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -19,20 +19,20 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-🔹 [**Data Science Projects**](https://github.com/ryanjek/Data-Science-Projects) – Collection of ML and analytics projects.  
+- [**Data Science Projects**](https://github.com/ryanjek/Data-Science-Projects) – Collection of ML and analytics projects.  
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanjek&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjek&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌍 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ryan-ng-jek-hian)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanngjekhian@gmail.com)  
