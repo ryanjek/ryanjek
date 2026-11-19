@@ -19,12 +19,6 @@
 
 ---
 
-## Featured Projects
-
-- [**Data Science Projects**](https://github.com/ryanjek/Data-Science-Projects) – Collection of ML and analytics projects.  
-
----
-
 ##  GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjek&layout=compact&theme=tokyonight)
 
