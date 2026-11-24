@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:414868,100:7aa2f7&height=200&section=header&text=Hey,%20I'm%20Ryan.&fontSize=45&fontColor=c0caf5&fontAlignY=38&animation=fadeIn&desc=Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:414868,100:7aa2f7&height=200&section=header&text=Hey%2C%20I%27m%20Ryan%20Ng%20Jek%20Hian.&fontSize=38&fontColor=c0caf5&fontAlignY=38&animation=fadeIn&desc=Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=7AA2F7&center=true&vCenter=true&width=600&lines=Exploring+State-of-the-Art+AI%2FML;Building+Passion+Projects;Engineering+Intelligent+Systems;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=7AA2F7&center=true&vCenter=true&width=700&lines=Build.+%E2%86%92+Learn.+%E2%86%92+Iterate.+%E2%86%92+Repeat." alt="Typing SVG" />
 
 <p>
 A machine learning engineer passionate about exploring SOTA AI/ML techniques, building passion projects, and continuously expanding my technical expertise.
