@@ -3,16 +3,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:414868,100:7aa2f7&height=200&section=header&text=Hey%2C%20I%27m%20Ryan%20Ng%20Jek%20Hian.&fontSize=38&fontColor=c0caf5&fontAlignY=38&animation=fadeIn&desc=Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=github&logoColor=7aa2f7)](https://ryanjek.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logoColor=7aa2f7)](https://linkedin.com/in/ryan-ng-jek-hian)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=7AA2F7&center=true&vCenter=true&width=700&height=45&lines=Build+%E2%86%92+Learn+%E2%86%92+Iterate+%E2%86%92+Repeat" alt="Typing SVG" />
-
-<p>
-A machine learning engineer passionate about exploring SOTA AI/ML techniques, building passion projects, and continuously expanding my technical expertise.
-</p>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:414868,100:7aa2f7&height=200&section=header&text=Hey%2C%20I%27m%20Ryan%20Ng%20Jek%20Hian.&fontSize=38&fontColor=c0caf5&fontAlignY=38&animation=fadeIn&desc=Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=7AA2F7&center=true&vCenter=true&width=600&height=35&lines=Build.+%E2%86%92+Learn.+%E2%86%92+Iterate.+%E2%86%92+Repeat." alt="Build. Learn. Iterate. Repeat." />
 </div>
+
+A machine learning engineer passionate about exploring SOTA AI/ML techniques, building passion projects, and continuously expanding my technical expertise.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-24283b?style=flat-square&logo=github&logoColor=7aa2f7)](https://ryanjek.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24283b?style=flat-square&logoColor=7aa2f7)](https://linkedin.com/in/ryan-ng-jek-hian)
 
 ---
 
